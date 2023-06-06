@@ -1,0 +1,8 @@
+# This is Git's per-user configuration file.
+[user]
+# Please adapt and uncomment the following lines:
+#	name = root
+#	email = root@prodmachine.us-west4-b.c.sharp-leaf-386915.internal
+[user]
+	name = narayana
+	email = promttimes@gmail.com
